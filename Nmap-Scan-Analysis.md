@@ -35,7 +35,7 @@ The scan was used to identify commonly used UDP services on the target.
 
 The presence of multiple network services increases the attack surface of the system. Services such as Telnet and FTP should be reviewed carefully because insecure configurations or weak authentication can expose the system to security risks.
 
-The identified services should be checked for unnecessary exposure, outdated software, weak credentials, and known vulnerabilities.
+The identified services should be checked for unnecessary exposure,  outdated software, weak credentials, and known vulnerabilities.
 
 ## Conclusion
 
